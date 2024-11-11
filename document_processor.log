@@ -1,0 +1,17 @@
+2024-11-05 14:43:26,540 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2024-11-05 14:43:28,544 - INFO - Loaded config: company_info.yaml
+2024-11-05 14:43:28,546 - INFO - Loaded config: products.yaml
+2024-11-05 14:43:28,548 - INFO - Loaded config: legal.yaml
+2024-11-05 14:43:28,550 - INFO - Loaded config: sales_responses.yaml
+2024-11-05 14:43:28,554 - INFO - Loaded config: qualified_investor_flow.yaml
+2024-11-05 14:43:28,561 - INFO - Loaded config: client_questionnaire.yaml
+2024-11-05 14:43:29,138 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2024-11-05 14:43:29,478 - INFO - Processing file: brainbot.docx
+2024-11-05 14:44:18,213 - INFO - Processing file: Interactive Guide to Autocallable Structured Products.docx
+2024-11-05 14:44:23,332 - INFO - Processing file: website.docx
+2024-11-05 14:44:35,800 - INFO - Processing file: ~$ebsite.docx
+2024-11-05 14:44:35,801 - ERROR - Error processing file ~$ebsite.docx: File is not a zip file
+2024-11-05 14:44:35,802 - INFO - Processing file: ~$ת לבוט.docx
+2024-11-05 14:44:35,804 - ERROR - Error processing file ~$ת לבוט.docx: File is not a zip file
+2024-11-05 14:44:35,804 - INFO - Processing file: שות לבוט.docx
+2024-11-05 14:45:05,107 - INFO - Document processing complete. Success: 4, Failed: 2
